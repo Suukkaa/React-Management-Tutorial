@@ -1,4 +1,4 @@
-##Management System
+# Management System
 본 프로젝트는 react 고객 관리 시스템(Management System) 강의를 수강한 것 입니다.
 
 # Getting Started with Create React App
